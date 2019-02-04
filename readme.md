@@ -37,5 +37,5 @@ php artisan preset tailwind:auth
 You can also specify the flag `--option=errors`, if you want to scaffold the 404, 500 and 503 error pages as well.
 
 ### Credits
-- [Adam Wathan's Laravel Preset](https://github.com/zaknesler/tailwind-preset)
-- [Zak Nesler's Tailwind Preset](https://github.com/adamwathan/laravel-preset)
+- [Adam Wathan's Laravel Preset](https://github.com/adamwathan/laravel-preset)
+- [Zak Nesler's Tailwind Preset](https://github.com/zaknesler/tailwind-preset)
