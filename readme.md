@@ -20,7 +20,7 @@ What it includes:
 To install this preset, you must first require the composer dependency in your application. Laravel will automatically register the service provider for you.
 
 ```bash
-composer require jpmhs/tailwind-preset
+composer require jphms/tailwind-preset
 ```
 
 Now, apply the scaffolding either with the `tailwind` or the `tailwind:auth` preset. The `tailwind:auth` preset includes the authentication scaffolding normally generated when `php artisan make:auth` is executed.
