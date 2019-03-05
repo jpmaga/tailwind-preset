@@ -1,3 +1,5 @@
+### Abandoned in favour of [hashnull/tailwind-preset](https://github.com/hashnull/tailwind-preset).
+
 # 🚀 Tailwind CSS Laravel Front-end Preset
 
 A Laravel frontend preset that scaffolds out new applications just the way I like 'em 👌🏻
