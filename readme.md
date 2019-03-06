@@ -1,1 +1,1 @@
-#### Abandoned in favour of [hashnull/tailwind-preset](https://github.com/hashnull/tailwind-preset).
+#### Abandoned in favour of [oddsrc/tailwind-preset](https://github.com/oddsrc/tailwind-preset).
